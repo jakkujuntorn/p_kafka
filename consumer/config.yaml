@@ -1,0 +1,14 @@
+kafka:
+  servers:
+    - localhost:9092
+  group: accountConsume
+
+
+# ของ DB
+# db:
+#   driver:mysql
+#   host:128.0.0.1
+#   port:3306
+#   username:user
+#   password:p@ssw0rd
+#   database: 

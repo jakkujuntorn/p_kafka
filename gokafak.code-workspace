@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "server"
+		},
+		{
+			"path": "../../Users/zilch/Downloads/kafka_2.13-3.4.0/kafka_2.13-3.4.0"
+		},
+		{
+			"path": "consumer"
+		},
+		{
+			"path": "producer"
+		},
+		{
+			"path": "events"
+		}
+	],
+	"settings": {}
+}
